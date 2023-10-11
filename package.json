@@ -1,0 +1,11 @@
+{
+  "name": "@diplodoc/configs",
+  "version": "1.0.0",
+  "description": "",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/diplodoc-platform/configs.git"
+  },
+  "keywords": ["diplodoc", "typescript", "eslint"],
+  "homepage": "https://github.com/diplodoc-platform/configs#readme"
+}
