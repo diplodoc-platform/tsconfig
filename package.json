@@ -1,11 +1,21 @@
 {
-  "name": "@diplodoc/configs",
+  "name": "@diplodoc/tsconfig",
   "version": "1.0.0",
-  "description": "",
+  "description": "diplodoc TypeScript config for our projects",
+  "keywords": [
+    "typescript",
+    "config"
+  ],
+  "license": "MIT",
+  "files": [
+    "tsconfig.json"
+  ],
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/diplodoc-platform/configs.git"
+    "url": "https://github.com/diplodoc-platform/tsconfig"
   },
-  "keywords": ["diplodoc", "typescript", "eslint"],
-  "homepage": "https://github.com/diplodoc-platform/configs#readme"
+  "bugs": {
+    "url": "https://github.com/diplodoc-platform/tsconfig/issues"
+  },
+  "homepage": "https://github.com/diplodoc-platform/tsconfig#readme"
 }
