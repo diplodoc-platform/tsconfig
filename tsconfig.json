@@ -1,9 +1,10 @@
 {
   "compilerOptions": {
     "module": "esnext",
+    "moduleResolution": "node",
+    "newLine": "lf",
     "esModuleInterop": true,
     "pretty": true,
-    "newLine": "lf",
     "stripInternal": true,
     "strict": true,
     "noImplicitReturns": true,
@@ -15,8 +16,6 @@
     "skipLibCheck": true,
     "experimentalDecorators": true,
     "allowJs": true,
-    "target": "es6",
-    "moduleResolution": "node",
-    "declaration": false
+    "isolatedModules": true
   }
 }
